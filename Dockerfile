@@ -49,6 +49,7 @@ ARG RUNTIME_PACKAGES="\
   redis \
   tesseract-ocr \
   tesseract-ocr-eng \
+  tesseract-ocr-deu \
   tzdata \
   unpaper \
   zlib1g"
